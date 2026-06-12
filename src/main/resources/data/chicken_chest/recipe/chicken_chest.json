@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "chicken_chest:chicken_bones",
+    "b": "minecraft:ender_chest"
+  },
+  "result": {
+    "id": "chicken_chest:chicken_chest"
+  }
+}

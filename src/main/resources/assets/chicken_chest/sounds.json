@@ -1,0 +1,11 @@
+{
+  "open": {
+    "sounds": ["chicken_chest:open"]
+  },
+  "close": {
+    "sounds": ["chicken_chest:close"]
+  },
+  "chickenchestplace": {
+    "sounds": ["chicken_chest:chickenchestplace"]
+  }
+}

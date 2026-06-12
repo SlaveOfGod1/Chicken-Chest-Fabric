@@ -1,0 +1,7 @@
+{
+  "parent": "chicken_chest:custom/chickenchestmodel",
+  "textures": {
+    "2": "chicken_chest:block/ichest",
+    "particle": "chicken_chest:block/ichest"
+  }
+}
