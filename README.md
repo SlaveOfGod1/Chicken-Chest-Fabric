@@ -11,7 +11,7 @@ I allways liked this mod and i want to make a fabric and modern version of it
 
 note:
 
-there might be some bugs but ill try to fix.
+there might be some bugs but ill try to fix it.
 
 enjoy :)
 
