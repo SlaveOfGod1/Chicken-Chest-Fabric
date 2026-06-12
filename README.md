@@ -7,7 +7,7 @@ A simple unoffical revival Fabric mod for Minecraft 26.1.2(idk if it works on 26
 - **Chicken Bones** - Dropped by chickens at a 5% chance
 - **Chicken Chest** - A decorative block crafted with 8 Chicken Bones + 1 Ender Chest
 
-I allways liked this mod and i want to make a fabric and modern version of it
+I allways liked this mod and i wanted to make a fabric and modern version of it
 
 note:
 
