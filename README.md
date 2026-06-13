@@ -9,6 +9,9 @@ A simple unoffical revival Fabric mod for Minecraft 26.1.2(idk if it works on 26
 
 I allways liked this mod and i wanted to make a fabric and modern version of it
 
+## Links
+[Modrinth](https://modrinth.com/mod/chicken-chest-(fabric))
+
 note:
 
 there might be some bugs but ill try to fix it.
